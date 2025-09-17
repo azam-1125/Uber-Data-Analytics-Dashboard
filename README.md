@@ -109,6 +109,6 @@ Key Components:
 ---
 ![Alt Text](https://github.com/azam-1125/Uber-Data-Analytics-Dashboard/blob/c29953d0037a25597a75b823a357428a606ba369/dashboard.png)
 ![Alt Text](https://github.com/azam-1125/Uber-Data-Analytics-Dashboard/blob/41370b0cf1fdd75c008c0cae0e7498546ddb0f78/Overall.png)
-![Alt Text]
+![Alt Text](https://github.com/azam-1125/Uber-Data-Analytics-Dashboard/blob/9ea3a7f0518cc8733698997593798315e6c11dba/Vehical%20Type.png)
 ![Alt Text]
 ![Alt Text]
