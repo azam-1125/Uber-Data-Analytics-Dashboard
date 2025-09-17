@@ -107,3 +107,4 @@ Key Components:
 4.  **Improve Customer and Driver Satisfaction**: Use insights from ratings and cancellation reasons to implement targeted programs for improving the experience of both customers and drivers.
 
 ---
+![Alt Text](Image URL)
