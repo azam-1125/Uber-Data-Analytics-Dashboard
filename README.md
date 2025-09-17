@@ -106,7 +106,7 @@ Key Components:
 
 > ✅ Fully interactive, filterable, and designed for quick executive insights.
 
-📸 *Final dashboard output: 
+📸 *Final dashboard output: https://github.com/azam-1125/Uber-Data-Analytics-Dashboard/blob/581a4a4483e1f87a2e25f20cdbdfb3637449bb34/uber_dashboard.pbix
 
 ---
 
