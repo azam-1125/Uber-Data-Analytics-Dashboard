@@ -74,6 +74,16 @@ It concludes with an **interactive Power BI dashboard** and a **summary of insig
 - Created a professional **summary report** of key findings and recommendations.
 - Captured dashboard screenshots for documentation and the README.
 - Prepared final project delivery and presentation materials.
+#### Dashboard-overview:
+![Alt Text](https://github.com/azam-1125/Uber-Data-Analytics-Dashboard/blob/c29953d0037a25597a75b823a357428a606ba369/dashboard.png)
+#### Overall :
+![Alt Text](https://github.com/azam-1125/Uber-Data-Analytics-Dashboard/blob/41370b0cf1fdd75c008c0cae0e7498546ddb0f78/Overall.png)
+#### Vehicle Types:
+![Alt Text](https://github.com/azam-1125/Uber-Data-Analytics-Dashboard/blob/9ea3a7f0518cc8733698997593798315e6c11dba/Vehical%20Type.png)
+#### Revenue:
+![Alt Text](https://github.com/azam-1125/Uber-Data-Analytics-Dashboard/blob/4c887addcb1a948e33cb17f46db05f030a405f22/Revenue.png)
+#### Ratings:
+![Alt Text](https://github.com/azam-1125/Uber-Data-Analytics-Dashboard/blob/e7d34b907ebbd84a81306433b407edf9fe90159a/Ratings.png)
 
 ---
 
@@ -96,7 +106,7 @@ Key Components:
 
 > ✅ Fully interactive, filterable, and designed for quick executive insights.
 
-📸 *Final dashboard output: [Link to hypothetical screenshot] (Replace with actual link if available)*
+📸 *Final dashboard output: 
 
 ---
 
@@ -107,8 +117,3 @@ Key Components:
 4.  **Improve Customer and Driver Satisfaction**: Use insights from ratings and cancellation reasons to implement targeted programs for improving the experience of both customers and drivers.
 
 ---
-![Alt Text](https://github.com/azam-1125/Uber-Data-Analytics-Dashboard/blob/c29953d0037a25597a75b823a357428a606ba369/dashboard.png)
-![Alt Text](https://github.com/azam-1125/Uber-Data-Analytics-Dashboard/blob/41370b0cf1fdd75c008c0cae0e7498546ddb0f78/Overall.png)
-![Alt Text](https://github.com/azam-1125/Uber-Data-Analytics-Dashboard/blob/9ea3a7f0518cc8733698997593798315e6c11dba/Vehical%20Type.png)
-![Alt Text](https://github.com/azam-1125/Uber-Data-Analytics-Dashboard/blob/4c887addcb1a948e33cb17f46db05f030a405f22/Revenue.png)
-![Alt Text]
