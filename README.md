@@ -107,4 +107,4 @@ Key Components:
 4.  **Improve Customer and Driver Satisfaction**: Use insights from ratings and cancellation reasons to implement targeted programs for improving the experience of both customers and drivers.
 
 ---
-![Alt Text]((https://github.com/azam-1125/Uber-Data-Analytics-Dashboard/blob/c29953d0037a25597a75b823a357428a606ba369/dashboard.png))
+![Alt Text](https://github.com/azam-1125/Uber-Data-Analytics-Dashboard/blob/c29953d0037a25597a75b823a357428a606ba369/dashboard.png)
