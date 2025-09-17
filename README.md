@@ -13,7 +13,7 @@ It concludes with an **interactive Power BI dashboard** and a **summary of insig
 
 ## 🗃️ Dataset Overview
 - **Source**: Google Sheets
-- **File**: `ncr_ride_bookings-ncr_ride_bookings.csv`
+- **File**: `ncr_ride_bookings.csv`
 - **Size**: ~150,000 rows | ~21 columns
 - **Content**:
   - Date, Time, Booking ID, Booking Status
